@@ -1,0 +1,36 @@
+.heading{
+	width: 50%;
+	margin: 30px auto;
+	text-align: center;
+	color: 	#6B8E23;
+	background: #FFF8DC;
+	border: 2px solid #6B8E23;
+	border-radius: 20px;
+}
+
+form {
+	width: 50%; 
+	margin: 50px auto; 
+	border-radius: 2px; 
+	padding: 20px
+	background: #FFF8DC;
+	border: 1px solid #6B8E23;
+}
+.task_input {
+	margin-top: 50px;
+	width: 75%;
+	height: 15px; 
+	padding: 20px;
+	border: 2px solid #6B8E23;
+	line-height: 1.6;
+}
+.add_btn {
+	height: 39px;
+	background: #FFF8DC;
+	color: 	#6B8E23;
+	border: 2px solid #6B8E23;
+	border-radius: 5px; 
+	padding: 5px 20px;
+}
+
+
